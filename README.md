@@ -1,9 +1,9 @@
 # rn-assignment6-11015103
 rn-assignment6-11015103
 
-ID: 11146109
+ID: 11015103
 
-React Native ShoppingApp App README
+React Native ShoppingProject README
 Design Choices
 
 App Structure:
@@ -26,5 +26,18 @@ Future Enhancements:
 Authentication: Implement user authentication for personalized carts and orders.
 Backend Integration: Connect to a backend server to enable real-time updates and synchronization.
 UI Enhancements: Improve user interface with animations, transitions, and enriched product details.
+
+
+
+
+![screenshot (2)](https://github.com/dacosta220/rn-assignment6-11015103/assets/170238976/d06f041c-1598-457c-aecd-0d8aaeeed35a)
+
+
+
+
+
+
+
+
 
 
